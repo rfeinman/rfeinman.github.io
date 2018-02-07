@@ -1,6 +1,7 @@
 # Reuben Feinman
 
-**Bio**: My name is Reuben.
+## Bio
+My name is Reuben.
 I'm a PhD student in Computational Neuroscience at NYU, working with Brenden Lake.
 As an undergraduate researcher in the Serre Lab at Brown University, I designed the
 learning pipeline for a biologically inspired computer vision model with the assistance of influential mathematician Stuart Geman.
@@ -12,7 +13,6 @@ both known and unknown malware samples on over 100 million customer machines wor
 
 
 ## Publications
-
 ### Pre-prints
 
 Learning Inductive Biases with Simple Neural Networks<br/>
