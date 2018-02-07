@@ -27,7 +27,7 @@ March 2017
 
 [A Deep Belief Network Approach to Learning Depth from Optical Flow](https://github.com/rfeinman/rfeinman.github.io/blob/master/files/ReubenFeinmanThesis.pdf)<br/>
 Reuben Feinman<br/>
-Sc.B. Honors Thesis, Brown University<br/>
+Sc.B. Honors thesis, Brown University<br/>
 May 2015
 
 #### US Patents
