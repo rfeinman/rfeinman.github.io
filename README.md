@@ -15,32 +15,32 @@ both known and unknown malware samples on over 100 million customer machines wor
 
 ### Pre-prints
 
-Learning Inductive Biases with Simple Neural Networks\\
-Reuben Feinman, Brenden M. Lake\\
-arXiv preprint arXiv:TODO\\
+Learning Inductive Biases with Simple Neural Networks<br/>
+Reuben Feinman, Brenden M. Lake<br/>
+arXiv preprint arXiv:TODO<br/>
 Feb. 2018
 
-Detecting Adversarial Samples from Artifacts\\
-Reuben Feinman, Ryan R. Curtin, Saurabh Shintre, Andrew B. Gardner\\
-arXiv preprint arXiv:1703.00410\\
+Detecting Adversarial Samples from Artifacts<br/>
+Reuben Feinman, Ryan R. Curtin, Saurabh Shintre, Andrew B. Gardner<br/>
+arXiv preprint arXiv:1703.00410<br/>
 Mar. 2017
 
-A Deep Belief Network Approach to Learning Depth from Optical Flow\\
-Reuben Feinman\\
-Sc.B. Honors Thesis, Brown University\\
+A Deep Belief Network Approach to Learning Depth from Optical Flow<br/>
+Reuben Feinman<br/>
+Sc.B. Honors Thesis, Brown University<br/>
 May 2015
 
 ### US Patents
 
-Systems and Methods for Trichotomous Malware Classification\\
-Reuben Feinman, Javier Echauz, Andrew B. Gardner\\
-US App. No. 15/356,526\\
+Systems and Methods for Trichotomous Malware Classification<br/>
+Reuben Feinman, Javier Echauz, Andrew B. Gardner<br/>
+US App. No. 15/356,526<br/>
 Nov. 2016
 
 ### Technical Reports
 
-Cleverhans v1.0.0: An Adversarial Machine Learning Library\\
-Nicolas Papernot, Ian Goodfellow, Ryan Sheatsley, Reuben Feinman, Patrick McDaniel\\
+Cleverhans v1.0.0: An Adversarial Machine Learning Library<br/>
+Nicolas Papernot, Ian Goodfellow, Ryan Sheatsley, Reuben Feinman, Patrick McDaniel<br/>
 arXiv preprint arXiv:1610.00768
 
 
