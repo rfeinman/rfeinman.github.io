@@ -1,7 +1,7 @@
 # Reuben Feinman
 
-## Bio
-My name is Reuben.
+
+**Bio:** My name is Reuben.
 I'm a PhD student in Computational Neuroscience at NYU, working with Brenden Lake.
 As an undergraduate researcher in the Serre Lab at Brown University, I designed the
 learning pipeline for a biologically inspired computer vision model with the assistance of influential mathematician Stuart Geman.
@@ -13,7 +13,7 @@ both known and unknown malware samples on over 100 million customer machines wor
 
 
 ## Publications
-### Preprints
+#### Preprints
 
 Learning Inductive Biases with Simple Neural Networks<br/>
 Reuben Feinman, Brenden M. Lake<br/>
@@ -30,7 +30,7 @@ Reuben Feinman<br/>
 Sc.B. Honors Thesis, Brown University<br/>
 May 2015
 
-### US Patents
+#### US Patents
 
 [Systems and Methods for Trichotomous Malware Classification](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOC97ysAAAAJ&imq=Reuben+Feinman&citation_for_view=qOC97ysAAAAJ:2osOgNQ5qMEC)<br/>
 Reuben Feinman, Javier Echauz, Andrew B. Gardner<br/>
@@ -47,7 +47,7 @@ Reuben Feinman, Jugal Parikh<br/>
 US App. No. 15/188,950<br/>
 June 2016
 
-### Technical Reports
+#### Technical Reports
 
 [Cleverhans v1.0.0: An Adversarial Machine Learning Library](https://arxiv.org/pdf/1610.00768v3.pdf)<br/>
 Nicolas Papernot, Ian Goodfellow, Ryan Sheatsley, Reuben Feinman, Patrick McDaniel<br/>
