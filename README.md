@@ -25,36 +25,31 @@ Reuben Feinman, Ryan R. Curtin, Saurabh Shintre, Andrew B. Gardner<br/>
 arXiv preprint arXiv:1703.00410<br/>
 March 2017
 
-[A Deep Belief Network Approach to Learning Depth from Optical Flow]
-(https://github.com/rfeinman/rfeinman.github.io/blob/master/files/ReubenFeinmanThesis.pdf)<br/>
+[A Deep Belief Network Approach to Learning Depth from Optical Flow](https://github.com/rfeinman/rfeinman.github.io/blob/master/files/ReubenFeinmanThesis.pdf)<br/>
 Reuben Feinman<br/>
 Sc.B. Honors Thesis, Brown University<br/>
 May 2015
 
 ### US Patents
 
-[Systems and Methods for Trichotomous Malware Classification]
-(https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOC97ysAAAAJ&imq=Reuben+Feinman&citation_for_view=qOC97ysAAAAJ:2osOgNQ5qMEC)<br/>
+[Systems and Methods for Trichotomous Malware Classification](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOC97ysAAAAJ&imq=Reuben+Feinman&citation_for_view=qOC97ysAAAAJ:2osOgNQ5qMEC)<br/>
 Reuben Feinman, Javier Echauz, Andrew B. Gardner<br/>
 US App. No. 15/356,526<br/>
 November 2016
 
-[Efficient Feature Selection]
-(https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOC97ysAAAAJ&imq=Reuben+Feinman&citation_for_view=qOC97ysAAAAJ:9yKSN-GCB0IC)<br/>
+[Efficient Feature Selection](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOC97ysAAAAJ&imq=Reuben+Feinman&citation_for_view=qOC97ysAAAAJ:9yKSN-GCB0IC)<br/>
 Reuben Feinman, Andrew B. Gardner, Jugal Parikh<br/>
 US App. No. 15/282,645<br/>
 October 2016
 
-[Systems and Methods for Detecting Malware Based on Event Dependencies]
-(https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOC97ysAAAAJ&imq=Reuben+Feinman&citation_for_view=qOC97ysAAAAJ:d1gkVwhDpl0C)<br/>
+[Systems and Methods for Detecting Malware Based on Event Dependencies](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOC97ysAAAAJ&imq=Reuben+Feinman&citation_for_view=qOC97ysAAAAJ:d1gkVwhDpl0C)<br/>
 Reuben Feinman, Jugal Parikh<br/>
 US App. No. 15/188,950<br/>
 June 2016
 
 ### Technical Reports
 
-[Cleverhans v1.0.0: An Adversarial Machine Learning Library]
-(https://arxiv.org/pdf/1610.00768v3.pdf)<br/>
+[Cleverhans v1.0.0: An Adversarial Machine Learning Library](https://arxiv.org/pdf/1610.00768v3.pdf)<br/>
 Nicolas Papernot, Ian Goodfellow, Ryan Sheatsley, Reuben Feinman, Patrick McDaniel<br/>
 arXiv preprint arXiv:1610.00768<br/>
 December 2016
