@@ -20,8 +20,7 @@ Reuben Feinman, Brenden M. Lake<br/>
 arXiv preprint arXiv:TODO<br/>
 February 2018
 
-[Detecting Adversarial Samples from Artifacts]
-(https://arxiv.org/pdf/1703.00410.pdf)<br/>
+[Detecting Adversarial Samples from Artifacts](https://arxiv.org/pdf/1703.00410.pdf)<br/>
 Reuben Feinman, Ryan R. Curtin, Saurabh Shintre, Andrew B. Gardner<br/>
 arXiv preprint arXiv:1703.00410<br/>
 March 2017
