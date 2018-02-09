@@ -15,9 +15,9 @@ both known and unknown malware samples on over 100 million customer machines wor
 ## Publications
 #### Preprints
 
-Learning Inductive Biases with Simple Neural Networks<br/>
+[Learning Inductive Biases with Simple Neural Networks](https://arxiv.org/pdf/1802.02745.pdf)<br/>
 Reuben Feinman, Brenden M. Lake<br/>
-arXiv preprint arXiv:TODO<br/>
+arXiv preprint arXiv:1802.02745<br/>
 February 2018
 
 [Detecting Adversarial Samples from Artifacts](https://arxiv.org/pdf/1703.00410.pdf)<br/>
