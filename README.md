@@ -26,7 +26,7 @@ arXiv preprint arXiv:1802.02745<br/>
 Reuben Feinman, Ryan R. Curtin, Saurabh Shintre, Andrew B. Gardner<br/>
 arXiv preprint arXiv:1703.00410<br/>
 
-[A Deep Belief Network Approach to Learning Depth from Optical Flow.](https://github.com/rfeinman/rfeinman.github.io/blob/master/files/ReubenFeinmanThesis.pdf)
+[A Deep Belief Network Approach to Learning Depth from Optical Flow.]({{ site.url }}/files/ReubenFeinmanThesis.pdf)
 (May 2015)<br/>
 Reuben Feinman<br/>
 Sc.B. Honors thesis, Brown University<br/>
@@ -57,11 +57,11 @@ US App. No. 15/188,950<br/>
 
 ## Select Press Highlights
 
-My R&D work was featured in the following Security Week article (Sept. 2016):<br/>
+My R&D work at Symantec was featured in the following Security Week article (Sept. 2016):<br/>
 [Symantec Adds Machine Learning to Endpoint Security Lineup.](http://www.securityweek.com/symantec-adds-machine-learning-endpoint-security-lineup)
 
 
-My R&D work was featured in the following eWeek article (Jan. 2016):<br/>
+My R&D work at Symantec was featured in the following eWeek article (Jan. 2016):<br/>
 [Symantec Adds Deep Learning to Anti-Malware Tools to detect Zero-Days.](http://www.eweek.com/security/symantec-adds-deep-learning-to-anti-malware-tools-to-detect-zero-days)
 
 
