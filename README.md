@@ -6,7 +6,7 @@
 I work on statistical models of human perception and learning alongside theorists at the Center for Neural Science,
 and in collaboration with investigators at the Courant Institute of Mathematical Sciences.
 As an undergraduate researcher in the Serre Lab at Brown University, I designed the
-learning pipeline for a biologically inspired computer vision model with guidance from influential pattern theorist Stuart Geman.
+learning pipeline for a biologically inspired computer vision model with the guidance of influential pattern theorist Stuart Geman.
 Following undergrad, I worked at Symantec's Center for Advanced Machine Learning in Mountain View, CA
 as a full-time research engineer for two years.
 There, I helped found a new paradigm for the company's threat detection technologies
