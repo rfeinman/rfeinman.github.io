@@ -2,8 +2,6 @@
 
 <img src="{{ site.url }}/images/avatar.jpeg" width="400" height="300">
 
-testing123
-
 **Bio:** I'm a PhD student in Computational Neuroscience at New York University.
 I work on statistical models of human perception and learning alongside theorists at the Center for Neural Science,
 and in collaboration with investigators at the Courant Institute of Mathematical Sciences.
