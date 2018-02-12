@@ -4,7 +4,7 @@
 
 **Bio:** I'm a PhD student in Computational Neuroscience at New York University.
 I work on statistical models of human perception and learning alongside theorists at the Center for Neural Science,
-and in collaboration with researchers at the Courant Institute of Mathematical Sciences.
+and in collaboration with investigators at the Courant Institute of Mathematical Sciences.
 As an undergraduate researcher in the Serre Lab at Brown University, I designed the
 learning pipeline for a biologically inspired computer vision model with guidance from influential pattern theorist Stuart Geman.
 Following undergrad, I worked at Symantec's Center for Advanced Machine Learning in Mountain View, CA
