@@ -30,6 +30,13 @@ arXiv preprint arXiv:1703.00410<br/>
 Reuben Feinman<br/>
 Sc.B. Honors thesis, Brown University<br/>
 
+## Technical Reports
+
+[Cleverhans v1.0.0: An Adversarial Machine Learning Library.](https://arxiv.org/pdf/1610.00768v3.pdf)
+(Dec. 2016)<br/>
+Nicolas Papernot, Ian Goodfellow, Ryan Sheatsley, Reuben Feinman, Patrick McDaniel<br/>
+arXiv preprint arXiv:1610.00768<br/>
+
 ## Select US Patents
 
 [Systems and Methods for Trichotomous Malware Classification.](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOC97ysAAAAJ&imq=Reuben+Feinman&citation_for_view=qOC97ysAAAAJ:2osOgNQ5qMEC)
@@ -47,22 +54,15 @@ US App. No. 15/282,645<br/>
 Reuben Feinman, Jugal Parikh<br/>
 US App. No. 15/188,950<br/>
 
-## Technical Reports
-
-[Cleverhans v1.0.0: An Adversarial Machine Learning Library.](https://arxiv.org/pdf/1610.00768v3.pdf)
-(Dec. 2016)<br/>
-Nicolas Papernot, Ian Goodfellow, Ryan Sheatsley, Reuben Feinman, Patrick McDaniel<br/>
-arXiv preprint arXiv:1610.00768<br/>
-
 ## Select Press Highlights
 
-My R&D work was featured in Security Week article
+My R&D work was featured in the following Security Week article (Sept. 2016):<br/>
 [Symantec Adds Machine Learning to Endpoint Security Lineup.](http://www.securityweek.com/symantec-adds-machine-learning-endpoint-security-lineup)
-(Sept. 2016)
 
-My R&D work was featured in eWeek article
+
+My R&D work was featured in the following eWeek article (Jan. 2016):<br/>
 [Symantec Adds Deep Learning to Anti-Malware Tools to detect Zero-Days.](http://www.eweek.com/security/symantec-adds-deep-learning-to-anti-malware-tools-to-detect-zero-days)
-(Jan. 2016)
+
 
 ## Popular Science Blog
 
