@@ -204,7 +204,6 @@ hr {
 /* Blog Section */
 #blog img {
 	border-radius: 50%;
-	width: 200px;
 	height: 200px;
 	display: inline-block;
 	margin-bottom: 30px;
@@ -212,9 +211,11 @@ hr {
 #blog {
 	padding: 100px 0;
 }
+#blog p {
+	margin-bottom: 120px;
+}
 /* Blog Posts */
 #blog-post img {
-	width: 200px;
 	height: 200px;
 	display: inline-block;
 	margin-bottom: 30px;

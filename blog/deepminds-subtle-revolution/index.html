@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="">
+<meta name="author" content="">
+
+<!-- Bootstrap -->
+<link rel="stylesheet" type="text/css"  href="../../css/bootstrap.css">
+<link rel="stylesheet" type="text/css" href="../../fonts/font-awesome/css/font-awesome.css">
+
+<!-- Stylesheet
+    ================================================== -->
+
+<link rel="stylesheet" type="text/css"  href="../../css/style.css">
+<link rel="stylesheet" type="text/css" href="../../css/prettyPhoto.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+<link href='http://fonts.googleapis.com/css?family=Lato:400,700,900,300' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,800,600,300' rel='stylesheet' type='text/css'>
+<script type="text/javascript" src="../../js/modernizr.custom.js"></script>
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+<!-- Navigation -->
+<div id="nav">
+  <nav class="navbar navbar-custom">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse"> <i class="fa fa-bars"></i> </button>
+        <a class="navbar-brand page-scroll" href="#page-top">Reuben Feinman</a> </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+        <ul class="nav navbar-nav">
+          <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+          <li class="hidden"> <a href="#page-top"></a> </li>
+          <li> <a class="page-scroll" href="../../#about">About</a> </li>
+          <li> <a class="page-scroll" href="../../#research">Research</a> </li>
+          <li> <a class="page-scroll" href="../../#background">Background</a> </li>
+          <li> <a class="page-scroll" href="../../#blog">Blog</a> </li>
+          <li> <a class="page-scroll" href="../../#contact">Contact</a> </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</div>
+<!--Blog Post-->
+<div id="blog-post">
+  <div class="container">
+    <div class="section-title text-center center">
+      <h2>DeepMind's Subtle Revolution</h2>
+      <hr>
+    </div>
+    <div class="row">
+      <div class="col-md-12 text-center"><img src="deepmind.jpg"></div>
+      <div class="text-center center">
+        <p><b><i>DeepMind's Atari agent learns to play video games in the same way that infant mammals<br>learn to perform various functions.</i></b></p>
+      <p>Aug 17, 2015<br><br></p>
+    </div>
+      <div class="col-md-8 col-md-offset-2">
+        <p>Last summer, Google purchased a London-based A.I. startup called DeepMind Technologies for just over $500 million,
+            placing an astounding bet on a dozen artificial intelligence researchers.
+            At the time, these individuals were working on what would become one of the greatest A.I. achievements to date.
+            Researchers at DeepMind set out the ambitious goal of building a computer brain that could learn to play
+            a variety of Atari video games using nothing but raw visual data.
+            What this means is that the computer sees exactly what you, the human gamer,
+            would see when playing these Atari games.
+            Beyond this, the computer agent would be fed a negative reward signal when the game is failed,
+            and a positive reward indicative of how well the agent has done when the game is completed successfully.
+            The technology behind this system is fascinating, but how can you understand how it works?<br><br>
+
+            Imagine that you are learning to walk for the very first time.
+            The method you learn by precludes the use of any previous knowledge or experience.
+            What you have is a highly complex machine with many knobs to be tuned that, when adjusted correctly,
+            can determine effectively what signals should be sent to your muscles given the visual
+            inputs it receives from your eyes.
+            In order to tune this machine, you must first fail; at times, you will topple, and a negative reward
+            signal will be propagated through the machine with advice on how to best adjust these knobs.
+            Eventually, after sufficient trial and error, you will achieve a positive reward.
+            This could be the dopamine rush that accompanies reaching your mother’s arms, or finally
+            attaining that alluring teddy bear that was just out of reach.
+            The reward signal will again be propagated through the machine, further updating
+            the parameters that constitute its calculus.<br><br>
+
+            This process should not sound arcane: it is, in fact, the very method postulated to operate
+            in the learning development of mammals.
+            When we train the dog to behave properly in our house, there is a reason that we give it a
+            treat when it has done well and a scolding (or else neutral feedback) when it fails.
+            Inside of the mammalian brain, billions of processing nodes are allotted to form the precise machine of which we speak.
+            These node networks have many parameters (“knobs”) that determine what signals are passed forward in each
+            segment given the inputs that are received. In order for the brain to perform necessary functions,
+            these parameters must be adjusted by means of positive and negative successes.<br><br>
+
+            One category of such parameters that has been the focus of great attention in recent science is the synaptic weights.
+            These weights determine how incoming information from previous areas is to be combined at a given neuron
+            in the network, and their filtering mechanisms are believed to play an important role in human cognition.
+            Scientists have sought to build mathematical abstractions that mimic this neural filtering process, using
+            simulated brain cell networks with connection weight values that determine how information
+            is combined and passed forward in each segment.<br><br>
+
+            To accomplish the autonomous Atari agent feat, DeepMind researchers made use of one such neural network
+            designed to mimic the processing pipeline of the brain’s visual system as discovered by neurophysiologists
+            David H. Hubel and Torsten Wiesel in the late 1950s and early 60s.
+            The network takes as input a set of pixel values that represent the screen of a given game, and it outputs
+            the game action that it has decided to take given the input visual state.
+            During the learning process, connection weights in the DeepMind network are updated according to the
+            reward signals received by means of a biologically inspired reinforcement learning procedure.<br><br>
+
+            This computer brain, like humans and other mammals, learns via trial and error.
+            Exploring the gaming environment, the agent tries out possible actions at random,
+            adjusting its synaptic weights according to the reward signals that are received.
+            As the agent learns more about the gaming world, it begins to exploit the information that it has gathered,
+            making decisions based on experience in replacement of random choices with increasing frequency.
+            Miraculously, the computer agent is able to achieve a performance level comparable to that of professional
+            human gamers across a set of 49 different Atari games, using the same algorithm and architecture in each case.
+            For each game, a separate agent instance is created, and the agent learns successful policies directly from
+            high-dimensional sensory inputs during 36 hours of training.
+            This generalized artificial intelligence is an absolute breakthrough in the field—an intellectual horsepower
+            that can be harnessed to conquer a diverse range of complex tasks.
+            I believe that we are witnessing one of the first true milestones of A.I. with this project,
+            and that we will be seeing much more of the like in coming years.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript" src="../../js/jquery.1.11.1.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.js"></script>
+<script type="text/javascript" src="../../js/SmoothScroll.js"></script>
+<script type="text/javascript" src="../../js/easypiechart.js"></script>
+<script type="text/javascript" src="../../js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" src="../../js/jquery.isotope.js"></script>
+<script type="text/javascript" src="../../js/jquery.counterup.js"></script>
+<script type="text/javascript" src="../../js/waypoints.js"></script>
+<script type="text/javascript" src="../../js/jqBootstrapValidation.js"></script>
+<script type="text/javascript" src="../../js/contact_me.js"></script>
+<script type="text/javascript" src="../../js/main.js"></script>
+</body>
+</html>
