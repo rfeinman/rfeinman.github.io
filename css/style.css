@@ -203,7 +203,7 @@ hr {
 }
 /* Blog Section */
 #blog img {
-	border-radius: 50%;
+	border-radius: 50% 50%;
 	height: 200px;
 	display: inline-block;
 	margin-bottom: 30px;
@@ -216,7 +216,7 @@ hr {
 }
 /* Blog Posts */
 #blog-post img {
-	height: 200px;
+	height: 300px;
 	display: inline-block;
 	margin-bottom: 30px;
 }

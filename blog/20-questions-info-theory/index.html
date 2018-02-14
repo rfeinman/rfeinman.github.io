@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="">
+<meta name="author" content="">
+
+<!-- Bootstrap -->
+<link rel="stylesheet" type="text/css"  href="../../css/bootstrap.css">
+<link rel="stylesheet" type="text/css" href="../../fonts/font-awesome/css/font-awesome.css">
+
+<!-- Stylesheet
+    ================================================== -->
+
+<link rel="stylesheet" type="text/css"  href="../../css/style.css">
+<link rel="stylesheet" type="text/css" href="../../css/prettyPhoto.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+<link href='http://fonts.googleapis.com/css?family=Lato:400,700,900,300' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,800,600,300' rel='stylesheet' type='text/css'>
+<script type="text/javascript" src="../../js/modernizr.custom.js"></script>
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+<!-- Navigation -->
+<div id="nav">
+  <nav class="navbar navbar-custom">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse"> <i class="fa fa-bars"></i> </button>
+        <a class="navbar-brand page-scroll" href="../../#page-top">Reuben Feinman</a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+        <ul class="nav navbar-nav">
+          <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+          <li class="hidden"> <a href="#page-top"></a> </li>
+          <li> <a class="page-scroll" href="../../#about">About</a> </li>
+          <li> <a class="page-scroll" href="../../#research">Research</a> </li>
+          <li> <a class="page-scroll" href="../../#background">Background</a> </li>
+          <li> <a class="page-scroll" href="../../#blog">Blog</a> </li>
+          <li> <a class="page-scroll" href="../../#contact">Contact</a> </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</div>
+<!--Blog Post-->
+<div id="blog-post">
+  <div class="container">
+    <div class="section-title text-center center">
+      <h2>20 Questions and Information Theory</h2>
+      <hr>
+    </div>
+    <div class="row">
+      <div class="col-md-12 text-center"><img src="the-matrix.jpg"></div>
+      <div class="text-center center">
+        <p><b><i>Information Theory is arguably one of the most beautiful and profound set<br>of ideas that our race has developed.</i></b></p>
+      <p>March 27, 2016<br><br></p>
+    </div>
+      <div class="col-md-8 col-md-offset-2">
+        <p>Have you ever played the game 20 Questions? If not, here’s how it works.
+          One player conjures the name of a person, without sharing the name, and the other player asks yes-or-no questions
+          about that person in an attempt to uncover who it is. If the questioner is able to uncover the chosen subject’s
+          identity in less than 20 questions, then she wins; if not, her opponent wins.
+          A questioner who hopes to succeed in this game follows a very distinct strategy.
+          With each question, the optimal strategy is to eliminate half of the remaining field of possibilities.
+          Thus, at the beginning, the questions are expected: is the person male? Is he/she under the age of 40?
+          While this strategy might seem trivial on the surface, a finer look at the underlying reasoning reveals
+          a phenomenon that is incredibly substantial.
+          The piece of information, or “message,” stored by the answerer has a quantifiable fundamental size.
+          Given the communication protocol of yes-or-no Q&A, there is one definitively optimal way to
+          represent and/or communicate this message.
+          The fundamental limits of representation and communication constitute a field of mathematics known as Information Theory.
+          While it may sound like a bland term, Information Theory is arguably one of the most beautiful and profound
+          set of ideas that our race has developed, providing a basis for fields ranging all the way from complex natural
+          spectacles such as the human brain to more worldly phenomena like the stock market.<br><br>
+
+          In order to quantify the fundamental size of a message, a metric is necessary.
+          In 20 Questions that metric is the average number of yes-or-no questions required to uncover the hidden subject’s identity.
+          Looking closely, one will notice that the typical number of questions required varies according to
+          the player who generates the message.
+          For the questioner, eliminating half of the remaining field with each iteration works great as a base
+          strategy when there is no prior information about the answerer (i.e. the message source).
+          In practice, however, the questioner often possesses prior knowledge about the answerer and his preferences,
+          and thus she knows that all possible names will not necessarily be chosen with equal probability.
+          For example, the questioner may know that this particular player knows a lot about sports, and thus there
+          is a higher probability that the name will be a current or former athlete.
+          In another case, the questioner may know that this player’s knowledge of history is scant, thus the name
+          is more likely to be that of a person who is currently alive or who has lived within the last decade.
+          The questioner can exploit her prior knowledge about the message source to build a more optimal question set (fewer Q’s).
+          As it turns out, the less random that an information source is, the smaller the fundamental
+          size of any message from that source.<br><br>
+
+          If a questioner possesses prior knowledge about the other player in 20 Questions, then she has
+          developed this knowledge over time, having recognized patterns in the behavior and activities of that individual.
+          In the same sense, the cerebral cortex of a human infant learns to recognize and exploit rich patterns from the
+          lingual and visual information emitted by the environment.
+          Luckily, the words coming from the mouths of an infant’s parents are not completely random;
+          rather, the rules of grammar ensure that these words have rich lingual patterns to be uncovered.
+          The infant will learn to understand these language-specific patterns and exploit them for his own conceptual purposes.
+          Similar to the lingual environment, the visual environment has many patterns, dictating the distributions
+          of luminance and color information that is received by an infant’s eyes.
+          Using these patterns, the cerebral cortex learns to detect edges and build high-level understandings
+          of the visual world. These complex understandings are summarized in higher parts of the brain’s
+          perceptual infrastructure as neural spike firing rates.<br><br>
+
+          Information Theory explains the beautiful parity that exists between the seemingly distinct spectacles
+          of 20 Questions and brain computation. In each case, complex data is summarized with simple, high-level representations.
+          In 20 Questions, the name of a subject chosen from a vast domain of potential subjects is summarized as a
+          short sequence of yes-or-no Q&As.
+          In the cerebral cortex, high-dimensional data such as the wavelengths & amplitudes of light from a large
+          perceptive field is summarized as a small set of neural spike firing rates.
+          The systems that convert information from complex inputs to high-level summaries have learned to do so over time,
+          uncovering patterns that tell about the data sources and their habits.<br><br>
+
+          Why does a source that exhibits patterns—and thus that is less random—produce messages of smaller fundamental size?
+          To understand the answer, let’s look at an example from the stock market.
+          Say that, for instance, on any given day you are handed 5 price values from the NYSE.
+          These could be prices of stocks such as GOOG and AAPL, prices of commodities like oil and gold,
+          prices of index funds like the S&P 500 or Barclay’s Bond Index, etc.
+          At first, you might think that you are handed the same amount of information from any set of 5 price values;
+          regardless of what those numbers represent, you will have 5 numbers of equal precision (two decimal points),
+          each of which tells something about global markets. But a closer look reveals a few subtle but key differences.
+          The values in a given set may contain mutual information if the price variables in that set are known to
+          be correlated with one another.
+          For example, consider a set that contains the price of crude oil and the stock prices of a few major energy companies.
+          The value of an energy company will be generally correlated with the price of oil; the higher the price of oil,
+          the more revenue these companies can generate at equal production costs.
+          Thus, when we have the price of oil in our possession, we already know a good deal about
+          the prices of energy company stocks.
+          By adding the price of an energy stock to our set on top of oil, we do not add as much information as
+          we would if we were to add the price of GOOG, for instance.<br><br>
+
+          Information Theory provides key insights about the laws that govern what is possible for a particular
+          task given the available information resources.
+          Not unlike the basic laws of physics, these laws exist in the abstract world of mathematics, and they tell us
+          about the fundamental nature of the universe that we inhabit. As AI continues to grow over the next few decades,
+          Information Theory will be ingrained in every element of its forward thrust.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript" src="../../js/jquery.1.11.1.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.js"></script>
+<script type="text/javascript" src="../../js/SmoothScroll.js"></script>
+<script type="text/javascript" src="../../js/easypiechart.js"></script>
+<script type="text/javascript" src="../../js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" src="../../js/jquery.isotope.js"></script>
+<script type="text/javascript" src="../../js/jquery.counterup.js"></script>
+<script type="text/javascript" src="../../js/waypoints.js"></script>
+<script type="text/javascript" src="../../js/jqBootstrapValidation.js"></script>
+<script type="text/javascript" src="../../js/contact_me.js"></script>
+<script type="text/javascript" src="../../js/main.js"></script>
+</body>
+</html>
