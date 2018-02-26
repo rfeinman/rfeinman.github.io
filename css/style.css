@@ -201,6 +201,19 @@ hr {
 	margin-top: 20px;
 	margin-bottom: 30px;
 }
+/* Talks Section */
+#talks img {
+	border: 2px solid green;
+	height: 200px;
+	display: inline-block;
+	margin-bottom: 30px;
+}
+#talks {
+	padding: 100px 0;
+}
+#talks p {
+	margin-bottom: 100px;
+}
 /* Blog Section */
 #blog img {
 	border-radius: 50px 50px;
