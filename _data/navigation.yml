@@ -5,9 +5,7 @@ main:
   - title: "Home"
     url: /
   - title: "Publications"
-    url: /#publications
-  - title: "Background"
-    url: /#background
+    url: /publications
   - title: "Talks"
     url: /talks/
   # - title: "Sample Posts"
