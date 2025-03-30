@@ -7,7 +7,7 @@ permalink: /talks/
 A brief sample of talks & presentations I've given about my research.
 <br><br>
 
-![image-center](/assets/images/human_concepts.png){: .align-center style="max-width: 400px; height: auto;"}
+![image-center](/assets/images/human_concepts.png){: .align-center style="max-width: 400px; height: auto; border: 1px solid #000;"}
 
 **Structure and Emergence in Human Concepts**<br>
 *NYU Neuroscience department presentation*<br>
@@ -17,7 +17,7 @@ Oct 20, 2020
 <br>
 
 
-![image-center](/assets/images/sk-reg.png){: .align-center style="max-width: 400px; height: auto;"}
+![image-center](/assets/images/sk-reg.png){: .align-center style="max-width: 400px; height: auto; border: 1px solid #000;"}
 
 **Learning a Smooth Kernel Regularizer for Convolutional Neural Networks**<br>
 *NYU Computational Cognitive Science group meeting.*<br>
@@ -27,7 +27,7 @@ Feb 27, 2019
 <br>
 
 
-![image-center](/assets/images/inductive-biases.png){: .align-center style="max-width: 400px; height: auto;"}
+![image-center](/assets/images/inductive-biases.png){: .align-center style="max-width: 400px; height: auto; border: 1px solid #000;"}
 
 **Learning Inductive Biases with Neural Networks**<br>
 *[NYU CILVR](https://wp.nyu.edu/cilvr/) group meeting.*<br>
@@ -37,7 +37,7 @@ Feb 26, 2018
 <br>
 
 
-![image-center](/assets/images/adversarial-examples.png){: .align-center style="max-width: 400px; height: auto;"}
+![image-center](/assets/images/adversarial-examples.png){: .align-center style="max-width: 400px; height: auto; border: 1px solid #000;"}
 
 **Artifacts of Adversarial Examples**<br>
 *[NYU LCV](https://www.cns.nyu.edu/~lcv/) group meeting.*<br>
