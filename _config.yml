@@ -70,7 +70,7 @@ author:
   avatar           : "/assets/images/biopic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "Cambridge, MA"
-  email            : "reuben@csm.ai"
+  email            : # To do: put email back?
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
