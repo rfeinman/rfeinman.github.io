@@ -3,6 +3,11 @@ layout: archive
 author_profile: true
 # sidebar:
 #   - nav: sidebar-sample
+
+# layout: single
+# author_profile: true
+# toc: true
+# toc_label: "Contents"
 ---
 
 {% include about.md %}
@@ -13,4 +18,4 @@ author_profile: true
 
 # Background
 
-{% include background.md %}
+todo
