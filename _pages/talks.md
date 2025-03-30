@@ -11,7 +11,7 @@ A brief sample of talks & presentations I've given about my research.
 
 **Structure and Emergence in Human Concepts**<br>
 *NYU Neuroscience department presentation*<br>
-<!-- [Slides](/assets/files/structure_and_emergence.pdf){: .btn .btn--info}<br> -->
+[Slides](/assets/files/structure_and_emergence.pdf){: .btn .btn--info}<br>
 Oct 20, 2020
 {: .text-center}
 <br>
