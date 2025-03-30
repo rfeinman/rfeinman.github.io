@@ -5,12 +5,12 @@ author_profile: true
 #   - nav: sidebar-sample
 ---
 
-{% include_relative sections/about.md %}
+{% include about.md %}
 
 # Publications
 
-{% include_relative sections/publications.md %}
+{% include publications.md %}
 
 # Background
 
-{% include_relative sections/background.md %}
+{% include background.md %}
