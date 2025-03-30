@@ -1,5 +1,6 @@
 ---
 layout: single
+author_profile: true
 title: Background
 permalink: /background/
 ---
