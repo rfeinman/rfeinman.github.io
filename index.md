@@ -22,6 +22,7 @@ Following undergrad, I worked at Symantec's Center for Advanced Machine Learning
 There, I helped found a new paradigm for the company's threat detection technologies based on artificial intelligence, filing 8 U.S. patents and improving the detection of malicious software on over 100 million customer machines worldwide.
 
 For more information about me, including my education and work experience, see my [background page](/background/).
+{: .notice--warning}
 
 
 ## Publications
