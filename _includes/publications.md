@@ -1,8 +1,8 @@
-- [Compositional Diversity in Visual Concept Learning](assets/files/ZhouEtAl2024Cognition.pdf) (Jan 2024)<br>
+- [Compositional Diversity in Visual Concept Learning](/assets/files/ZhouEtAl2024Cognition.pdf) (Jan 2024)<br>
 Yanli Zhou, **Reuben Feinman**, Brenden M. Lake<br>
 *Cognition*, 244, 105711
 
-- [Generative Neuro-Symbolic Models of Concept Learning](assets/files/FeinmanPhDThesis.pdf) (Sep 2023)<br>
+- [Generative Neuro-Symbolic Models of Concept Learning](/assets/files/FeinmanPhDThesis.pdf) (Sep 2023)<br>
 **Reuben Feinman**<br>
 Ph.D. thesis, New York University
 

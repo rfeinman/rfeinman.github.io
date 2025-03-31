@@ -99,7 +99,7 @@ author:
   links:
     - label: "CV / Resume"
       icon: "fas fa-fw fa-download"  # fa-file-pdf, fa-link
-      url: "assets/files/ReubenFeinman_CV.pdf"
+      url: "/assets/files/ReubenFeinman_CV.pdf"
     - label: "Google Scholar"
       icon: "ai fa-fw ai-google-scholar"  #"fas fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=qOC97ysAAAAJ"
